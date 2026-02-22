@@ -1,6 +1,6 @@
-import Headerabout from "./partabout/Headerabout.jsx";
-import Motivation from "./partabout/Motivation.jsx";
-import Footer from "./partabout/partmain/Footer.jsx";
+import Headerabout from "./Headerabout.jsx";
+import Motivation from "./Motivation.jsx";
+import Footer from "./partmain/Footer.jsx";
 function Mainabout() {
   return (
     <>
