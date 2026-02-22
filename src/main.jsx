@@ -12,10 +12,12 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     <BrowserRouter>
       <Routes>
+        
         <Route path="/" element={<Mainhomepage />} />
         <Route path="/about" element={<Mainabout />} />
         <Route path="/details" element={<Maindetails />} />
       </Routes>
+
     </BrowserRouter>
   </StrictMode>
 );
