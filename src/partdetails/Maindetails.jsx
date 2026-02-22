@@ -2,7 +2,7 @@ import Headerdetails from "./Headerdetails";
 import Overview from "./Overview";
 import Description from "./Description";
 import Letterdetails from "./Letterdetails";
-im
+import Requi from "./Requi";
 
 function Maindetails() {
   return (
