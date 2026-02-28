@@ -2,7 +2,7 @@ import Headerhomepage from "./partabout/partmain/Headerhomepage.jsx";
 import Advertise from "./partabout/partmain/Advertise.jsx";
 import Blockcategory from "./partabout/partmain/Blockcategory.jsx";
 import Recently from "./partabout/partmain/Recently.jsx";
-import Footer from "./partabout/partmain/Footer.jsx";
+import Footer from "./Footer2.jsx";
 
 function Mainhomepage() {
   return (
@@ -13,8 +13,7 @@ function Mainhomepage() {
       <Blockcategory/>
       <Recently/>
       <br/>
-      <Footer/>
-
+      <Footer />
     </div>
     </>
   );
